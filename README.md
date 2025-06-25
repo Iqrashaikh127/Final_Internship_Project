@@ -44,3 +44,5 @@ A full-featured real-time chat application supporting personal and group chats.
 **Tech Stack:**
 - Frontend: React.js, Tailwind CSS, Emoji Picker, Axios, Socket.IO-client
 - Backend: Node.js, Express.js, MongoDB, Socket.IO
+
+📂 Folder: `Chat_App/`
