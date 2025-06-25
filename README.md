@@ -22,7 +22,7 @@ A progressive web app (PWA) to track daily habits, visualize streaks, and analyz
 - Frontend: React.js, Tailwind CSS, Chart.js, IndexedDB
 - Backend: None (runs entirely in browser as a PWA)
 
-📂 Folder: `Habit_Tracker/`
+📂 **Folder**: `Habit_Tracker/`
 
 ---
 
@@ -45,4 +45,4 @@ A full-featured real-time chat application supporting personal and group chats.
 - Frontend: React.js, Tailwind CSS, Emoji Picker, Axios, Socket.IO-client
 - Backend: Node.js, Express.js, MongoDB, Socket.IO
 
-📂 Folder: `Chat_App/`
+📂 **Folder**: `Chat_App/`
